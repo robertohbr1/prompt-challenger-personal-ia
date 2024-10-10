@@ -128,10 +128,13 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 Meu projeto:
 
 Criei um novo documento, e inseri na ferramenta. Escrevi para a IA:
+
 ----------
 - Execute o documento abaixo e solicite as informações necessárias
+
 ----------
 Ela apresentou:
+
 ----------
 Certo, vamos criar um plano de treinamento personalizado. Para isso, preciso que você me forneça algumas informações:
 
@@ -146,14 +149,21 @@ Certo, vamos criar um plano de treinamento personalizado. Para isso, preciso que
 5. Você tem acesso a uma academia ou prefere treinar em casa?
 
 Com essas informações, eu posso elaborar um plano de treinamento completo, incluindo exercícios, frequência, intensidade e duração, além de dicas sobre alimentação e recuperação.
+
 ----------
 Respondi:
+
 ----------
 1 massa muscular
+
 2 atividade leve
+
 3 nenhuma
+
 4 3 dias
+
 5 treinar em casa
+
 ---------
 Ela apresentou um bom plano de exercícios
 
