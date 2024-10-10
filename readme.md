@@ -121,3 +121,41 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+
+-----------
+
+Meu projeto:
+
+Criei um novo documento, e inseri na ferramenta. Escrevi para a IA:
+----------
+- Execute o documento abaixo e solicite as informações necessárias
+----------
+Ela apresentou:
+----------
+Certo, vamos criar um plano de treinamento personalizado. Para isso, preciso que você me forneça algumas informações:
+
+1. Quais são seus objetivos de treinamento? Você quer ganhar massa muscular, perder peso, melhorar a resistência, etc.?
+
+2. Qual é o seu nível de atividade física atual? Você é sedentário, faz atividade física leve, moderada ou intensa?
+
+3. Você tem alguma limitação física ou condição de saúde que eu deva levar em consideração?
+
+4. Quanto tempo você pode dedicar ao treinamento por semana?
+
+5. Você tem acesso a uma academia ou prefere treinar em casa?
+
+Com essas informações, eu posso elaborar um plano de treinamento completo, incluindo exercícios, frequência, intensidade e duração, além de dicas sobre alimentação e recuperação.
+----------
+Respondi:
+----------
+1 massa muscular
+2 atividade leve
+3 nenhuma
+4 3 dias
+5 treinar em casa
+---------
+Ela apresentou um bom plano de exercícios
+
+
+
